@@ -1,4 +1,4 @@
-## Olá, eu sou o Eduardo!
+## Olá, eu sou o Eduardo, estudante de Sistemas de Informação e dev em evolução!
 
 <div align="center">
   <a href="https://github.com/LuisEduardo20">
