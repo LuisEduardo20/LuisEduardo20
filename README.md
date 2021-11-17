@@ -14,8 +14,7 @@
   <img align="center" alt="Luis-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Luis-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Luis-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <!--<img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">-->
-  <img align="right" alt="Dudu-avatar" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/888948124779950080/908866015071457350/avatar_arcanejpeg.jpeg">
+  <img align="right" alt="Dudu-avatar" height="240" width="200" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/888948124779950080/908866015071457350/avatar_arcanejpeg.jpeg">
 </div>
   
   ##
