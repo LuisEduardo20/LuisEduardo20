@@ -17,12 +17,10 @@
   <img align="center" alt="Luis-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="Luis-VsCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Luis-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Dudu-avatar" height="240" width="200" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/888948124779950080/908866015071457350/avatar_arcanejpeg.jpeg">
+  <img align="right" alt="Dudu-avatar" height="280" width="200" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/914144800050143242/944264308488028260/WhatsApp_Image_2022-02-18_at_13.06.11.jpeg">
 </div>
-  
-  ##
  
-<div> 
+<div style="margin: 20px;"> 
   <a href="https://instagram.com/lluiss_eduardo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/duduchaos20" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:luiseduardo20.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -31,3 +29,15 @@
   ![Snake animation](https://github.com/LuisEduardo20/LuisEduardo20/blob/output/github-contribution-grid-snake.svg)
   
 </div>
+  
+<img src="https://activity-graph.herokuapp.com/graph?username=LuisEduardo20&theme=chartreuse-dark&line=17bf1a&point=70e000">
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisEduardo20" width="700px"/>
+</div>
+
+  
+## Total de visitas no meu perfil <br>
+ <p align="center"> 
+   <img target="_blank" alingn="center" src="https://profile-counter.glitch.me/LuisEduardo20/count.svg" />
+ </p>
